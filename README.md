@@ -79,10 +79,4 @@ Create database: CREATE DATABASE lost_and_found;
 
 Update application.properties with DB creds + JWT secret.
 
-Run:
 
-mvn clean package
-mvn spring-boot:run
-
-
-Backend available at http://localhost:8080.
